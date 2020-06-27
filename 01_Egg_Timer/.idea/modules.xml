@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Egg_Timer.iml" filepath="$PROJECT_DIR$/01_Egg_Timer.iml" group="01_Egg_Timer" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="01_Egg_Timer/app" />
+    </modules>
+  </component>
+</project>
