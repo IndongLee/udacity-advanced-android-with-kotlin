@@ -1,0 +1,2 @@
+rootProject.name='02_Custom_Fan_Controller'
+include ':app'
